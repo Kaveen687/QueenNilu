@@ -93,7 +93,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94767438882"]
+global.NO_BLOCK = ["94788411793"]
 
 
 
@@ -105,9 +105,9 @@ global.NO_BLOCK = ["94767438882"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94767438882'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94767438882'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Janiya_' // Your name ඔබේ නම 
+global.pemilik = ['94788411793'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94788411793'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '_ʀͥᴇᷧᴀͫʟකවීන්_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
